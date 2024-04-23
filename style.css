@@ -1,0 +1,12 @@
+*{
+
+}
+
+body{
+    background-image: url('/IMG_4949.JPG') 
+}
+
+header{
+    display: flex;
+    justify-content: space-around; align-items: center;
+}
